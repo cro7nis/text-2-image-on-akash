@@ -33,7 +33,7 @@ USER $USER
 # Copy nesessary files to docker
 COPY --chown=$USER:$USER src/app.py app.py
 COPY --chown=$USER:$USER configs configs
-#COPY --chown=$USER:$USER checkpoints checkpoints
+COPY --chown=$USER:$USER checkpoints checkpoints
 COPY --chown=$USER:$USER docker/start.sh start.sh
 
 
