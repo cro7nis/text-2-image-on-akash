@@ -1,13 +1,12 @@
-# Text-to-Speech with Parler-TTS
-Text-to-Speech app powerered by [parler-tts library](https://github.com/huggingface/parler-tts) and [Streamlit](https://streamlit.io/).
+# Text to Image on Akash Network
 
-The project is developed for the **Deploy a TTS solution on Akash** zealy task which is hosted by [Akash](https://zealy.io/cw/akashnetwork/questboard).
+Text-to-image app powerered by [Playground v2.5 – 1024px Aesthetic Model](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic).
 
-## Deploy on Akash guide <img src="./assets/akash-logo.png" alt="drawing" width=20 height=20/> 
+Its a clone from huggingface [space](https://huggingface.co/spaces/playgroundai/playground-v2.5) from [playgroundai](https://huggingface.co/playgroundai)
 
+The project is developed for the **Run app similar to SDXL on Akash Network** zealy task which is hosted by [Akash](https://zealy.io/cw/akashnetwork/questboard).
 
-
-https://github.com/cro7nis/parler-tts/assets/166608635/d916a91d-eb91-41f0-8601-0c657b8be574
+## Deploy on Akash guide <img src="./assets/akash-logo.png" alt="drawing" width=20 height=20/>
 
 
 
