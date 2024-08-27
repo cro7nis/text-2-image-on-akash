@@ -1,0 +1,5 @@
+default:
+  model:
+    id: playgroundai/playground-v2.5-1024px-aesthetic
+    device: cuda:0
+    cache_dir: checkpoints
