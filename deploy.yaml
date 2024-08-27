@@ -5,7 +5,7 @@ services:
     image: cro7/text-2-image-on-akash:0.0.1
     expose:
       - port: 7860
-        as: 8051
+        as: 7860
         to:
           - global: true
 profiles:
