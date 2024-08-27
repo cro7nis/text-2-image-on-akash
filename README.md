@@ -10,6 +10,10 @@ The project is developed for the **Run app similar to SDXL on Akash Network** ze
 
 
 
+https://github.com/user-attachments/assets/c4b4d269-a9c7-4cea-b166-d51d83d473b9
+
+
+
 - Create and fund a Keplr or Leap wallet
   - [Keplr wallet](https://akash.network/docs/getting-started/token-and-wallets/#keplr-wallet)
   - [Leap wallet](https://akash.network/docs/getting-started/token-and-wallets/#leap-cosmos-wallet)
