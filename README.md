@@ -28,6 +28,7 @@ https://github.com/user-attachments/assets/c4b4d269-a9c7-4cea-b166-d51d83d473b9
 - Accept wallet transaction
 - Review bids and select provider
 - Accept provider transaction
+- Wait a couple of minutes (docker image download and container setup) and check the logs
 - Go to LEASES and press the URI
 - Check the [Akash docs](https://akash.network/docs/deployments/cloudmos-deploy/) if you have and questions
 - Start generating images with text!
